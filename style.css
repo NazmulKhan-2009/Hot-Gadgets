@@ -1,0 +1,9 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.catimg{
+  /* border: 1px solid black; */
+  /* padding: 40px 30px; */
+  border-radius: 10px 0px 30px 0px;
+  box-shadow: 5px 5px 15px lightgray;
+}
